@@ -10,5 +10,6 @@ i = 0
     i = i + 1
 end
 
+block_return_values
 
 end
